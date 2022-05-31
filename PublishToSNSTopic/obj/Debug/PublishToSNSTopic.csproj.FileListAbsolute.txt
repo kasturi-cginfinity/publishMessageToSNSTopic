@@ -1,0 +1,15 @@
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\PublishToSNSTopic.exe.config
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\PublishToSNSTopic.exe
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\PublishToSNSTopic.pdb
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\AWSSDK.Core.dll
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\AWSSDK.SimpleNotificationService.dll
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\AWSSDK.Core.pdb
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\AWSSDK.Core.xml
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\AWSSDK.SimpleNotificationService.pdb
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\bin\Debug\AWSSDK.SimpleNotificationService.xml
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\obj\Debug\PublishToSNSTopic.csproj.AssemblyReference.cache
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\obj\Debug\PublishToSNSTopic.csproj.SuggestedBindingRedirects.cache
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\obj\Debug\PublishToSNSTopic.csproj.CoreCompileInputs.cache
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\obj\Debug\PublishToSNSTopic.csproj.CopyComplete
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\obj\Debug\PublishToSNSTopic.exe
+D:\New folder\PublishToSNSTopic\PublishToSNSTopic\obj\Debug\PublishToSNSTopic.pdb
